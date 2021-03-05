@@ -1,5 +1,3 @@
-const fibonacci = function() {
+const fibonacci = function (num) {};
 
-}
-
-module.exports = fibonacci
+module.exports = fibonacci;
